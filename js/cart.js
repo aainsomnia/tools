@@ -15,7 +15,7 @@ var ShoppingCart = (function($) {
         id: 0,
         name: "Kennedy",
         description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793170k_round_brush.jpg",
+        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/515/ken5155090k.jpg",
         price: 342000
       },
       {
@@ -28,31 +28,32 @@ var ShoppingCart = (function($) {
       {
         id: 2,
         name: "Kennedy",
-        description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793170k_round_brush.jpg",
-        price: 1499
+        description: "Replacement Filter for 50ltr Parts Washer (Pk-5)",
+        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/503/ken5038640k.jpg",
+        price: 4700000
       },
       {
         id: 3,
         name: "Kennedy",
-        description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793170k_round_brush.jpg",
+        description: "6.00mm DIA HSS S/S R-F JOBBER DRILL",
+        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/025/sen0250117x.jpg",
         price: 999
       },
       {
         id: 4,
         name: "Kennedy",
-        description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793170k_round_brush.jpg",
-        price: 599
+        description: "Adjustable Spanner Set, Steel, Set Of 3",
+        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/501/ken5010600k.jpg",
+        price: 1271600
       },
       {
         id: 5,
         name: "Kennedy",
-        description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793170k_round_brush.jpg",
-        price: 499
-      }
+        description: "Pro-Torq, Flared/Parallel/Phillips/Pozi, Screwdriver Set, Set of 12",
+        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/572/ken5726030k_2.jpg",
+        price: 1901000
+      },
+      
     ],
         productsInCart = [];
     
