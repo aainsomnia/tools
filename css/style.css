@@ -116,7 +116,7 @@
     margin-right: 20px;
     margin-top: 10px;
     padding: 20px;
-    background: rgba(245, 222, 179, 0);
+    background: rgba(245, 222, 179, 0.647);
     min-width: 30px;
   }
 }

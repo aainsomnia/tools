@@ -13,42 +13,42 @@ var ShoppingCart = (function($) {
     var products = [
       {
         id: 0,
-        name: "Kennedy",
+        name: "CPK090, Insulated Terminals",
         description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/515/ken5155090k.jpg",
         price: 342000
       },
       {
         id: 1,
-        name: "Kennedy",
+        name: "Wet & Dry Vacuum Cleaner & Blower",
         description: "Wet & Dry Vacuum Cleaner & Blower ",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793140k.jpg",
         price: 2901690,
       },
       {
         id: 2,
-        name: "Kennedy",
+        name: "Replacement Filter for 50ltr Parts Washer (Pk-5)",
         description: "Replacement Filter for 50ltr Parts Washer (Pk-5)",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/503/ken5038640k.jpg",
         price: 4700000
       },
       {
         id: 3,
-        name: "Kennedy",
+        name: "6.00mm DIA HSS S/S R-F JOBBER DRILL",
         description: "6.00mm DIA HSS S/S R-F JOBBER DRILL",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/025/sen0250117x.jpg",
         price: 999
       },
       {
         id: 4,
-        name: "Kennedy",
+        name: "Adjustable Spanner Set, Steel, Set Of 3",
         description: "Adjustable Spanner Set, Steel, Set Of 3",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/501/ken5010600k.jpg",
         price: 1271600
       },
       {
         id: 5,
-        name: "Kennedy",
+        name: "Pro-Torq, Flared/Parallel Set of 12",
         description: "Pro-Torq, Flared/Parallel/Phillips/Pozi, Screwdriver Set, Set of 12",
         imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/572/ken5726030k_2.jpg",
         price: 1901000
@@ -94,6 +94,9 @@ var ShoppingCart = (function($) {
       
       generateCartButtons()
     }
+    // var whatsapp
+    
+    // var whatsapp
     
     
     // Function that generates Empty Cart and Checkout buttons based on condition that checks if productsInCart array is empty
